@@ -10,6 +10,11 @@ This code simulate the above problem and gives a win percentage if you switch or
 
 ![image](https://user-images.githubusercontent.com/60879512/126888791-8eb37990-8fb4-4705-bed3-35424a43b858.png)
 
+![image](https://user-images.githubusercontent.com/60879512/126888961-808da587-76f0-4522-9683-6783454dbfc6.png)
+
+![image](https://user-images.githubusercontent.com/60879512/126888965-95a0242f-89a9-47e9-b7fb-0ab38e449124.png)
+
+
 ## Libraries used
 * `random`
 * `matplotlib`
